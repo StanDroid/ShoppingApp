@@ -2,6 +2,7 @@
 .gradle
 .agents
 AGENTS.md
+docs
 /local.properties
 /.idea
 .DS_Store
@@ -9,4 +10,4 @@ AGENTS.md
 /captures
 .externalNativeBuild
 .cxx
-
+/data/schemas

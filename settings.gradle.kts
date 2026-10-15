@@ -23,4 +23,4 @@ dependencyResolutionManagement {
 }
 
 rootProject.name = "ShoppingApp"
-include(":app")
+include(":app", ":domain", ":data", ":feature:search")

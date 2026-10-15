@@ -1,0 +1,22 @@
+<resources>
+    <string name="search_hint">Search for products</string>
+    <string name="clear_search">Clear search</string>
+    <string name="initial_search_title">Try searching for a product</string>
+    <string name="initial_search_message">Find something interesting to buy.</string>
+    <string name="empty_search_title">No products found</string>
+    <string name="empty_search_message">Try a different search term.</string>
+    <string name="search_loading">Searching…</string>
+    <string name="search_error_title">Couldn\'t load products</string>
+    <string name="search_connection_error">Check your internet connection and try again.</string>
+    <string name="search_unknown_error">Something went wrong. Please try again.</string>
+    <string name="search_retry">Retry</string>
+    <string name="search_loading_more">Loading more products…</string>
+    <string name="search_append_error">Couldn\'t load more products</string>
+    <string name="search_refresh_error">Couldn\'t refresh products</string>
+    <string name="favorite_add">Add to favorites</string>
+    <string name="favorite_remove">Remove from favorites</string>
+    <string name="favorite_updating">Updating favorite</string>
+    <string name="favorite_update_error">Couldn\'t update favorites. Please try again.</string>
+    <string name="product_rating">%1$s / 10 (%2$s)</string>
+    <string name="product_rating_description">Rating %1$s out of 10, %2$s reviews</string>
+</resources>
